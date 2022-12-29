@@ -19,8 +19,12 @@
 - Follow the prompts to run the app on your device or emulator.
 
 ### Screenshots 
-<img width="284" alt="Screenshot 1" src="https://user-images.githubusercontent.com/74553851/209937799-b1aa6fb8-cdb2-4e29-8f5e-97b7720ff7c0.png">
-<img width="284" alt="Screenshot 2" src="https://user-images.githubusercontent.com/74553851/209937846-69ab0946-422f-4252-8f49-1f5a97af0ea9.png">
-<img width="272" alt="Screenshot 3" src="https://user-images.githubusercontent.com/74553851/209937861-f71f95bf-506e-4e4d-b785-c6f8fc626025.png">
+<table width="80%" border="0">
+  <tr>    
+  <td><img width="175" src="https://user-images.githubusercontent.com/74553851/209937799-b1aa6fb8-cdb2-4e29-8f5e-97b7720ff7c0.png" alt="" align="left" /></td>
+  <td><img width="175" src="https://user-images.githubusercontent.com/74553851/209937799-b1aa6fb8-cdb2-4e29-8f5e-97b7720ff7c0.png" alt="" align="center" /></td>
+  <td><img width="175" src="https://user-images.githubusercontent.com/74553851/209937799-b1aa6fb8-cdb2-4e29-8f5e-97b7720ff7c0.png" alt="" align="right"/></td>
+  </tr>
+</table>
 
 
